@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Data Science for Object-Detection or Image Processing
 - 💞️ I’m looking to collaborate on Image Processing Projects
 - 📫 How to reach me 
-    ig: eurayuee
-    twitter: euraembestro
     linkedln: https://www.linkedin.com/in/euraembestro/
    
 
